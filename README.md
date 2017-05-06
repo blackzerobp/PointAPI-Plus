@@ -1,7 +1,5 @@
-# PointAPI-Plus
-A simple plugin for vip-players !
-Commands:
-/setpoint
-/givepoint
-/takepoint
-/seepoint
+A SIMPLE PLUGIN FOR VIP-PLAYERS
+
+//
+
+How
